@@ -56,3 +56,6 @@ Remove/Uninstall plugins not on the plugin list
 ```shell
 rm -rf ~/.tmux/ ~/tmux-config ~/.tmux.conf
 ```
+
+## Screenshots
+![Screenshot](https://github.com/beatzball/config-tmux/assets/38116726/b6893ae8-aa41-4681-89d2-63a63c1d0be9)
