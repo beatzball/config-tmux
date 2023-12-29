@@ -20,7 +20,7 @@ This is my custom tmux config. It requires a little work on your part, but the d
 Git clone this repository
 
 ```shell
-git clone git@github.com:tmux-plugins/tpm.git ~/config-tmux/
+git clone git@github.com:beatzball/config-tmux.git ~/config-tmux/
 ```
 
 Make a symbolic link of `~/tmux.conf`
